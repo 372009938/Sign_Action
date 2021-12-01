@@ -34,6 +34,7 @@
 * 如果配置了Server酱，运行结果会推送到微信；
 
 ## 获取京东cookie (https://hermes.jd.com/log.gif)
+https://m.jd.com/
 
 * 使用项目中的Chrome插件：`JDCookie`；
 * Chrome中拓展程序开启`开发者模式`；
@@ -60,3 +61,6 @@
 * [NobyDa/Script/JD-DailyBonus](https://github.com/NobyDa/Script/blob/master/JD-DailyBonus/JD_DailyBonus.js)
 * [ruicky/jd-sign-bot](https://github.com/ruicky/jd_sign_bot)
 * [jerrykuku/luci-app-jd-dailybonus](https://github.com/jerrykuku/luci-app-jd-dailybonus)
+
+
+home.m.jd.com/myJd/newhome.action
